@@ -9,3 +9,6 @@ This is a repository for my 1620 class in term 1 of BCIT
 ## Rose pine Dawn
 
 ## ID for my colors
+#eb6f92
+#c4a7e7
+#191724
