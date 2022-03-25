@@ -25,3 +25,12 @@ const students = [
     }
   
   console.log(studentsScholarship)
+
+//Part 4
+
+function dark_mode() {
+        const darkMode = document.querySelector("div")
+        return darkMode.classList.toggle("dark-theme")
+      }
+dark_mode()
+    
